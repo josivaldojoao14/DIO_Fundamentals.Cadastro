@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8Kimbnmq3PsFtxYTvgiQp135T54iYsVoMBXev9zm/M0ZGVwWzSFAtHm9LmbNa+LezpKk5Ddq0szHKpTV/VPE9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josivaldo\\source\\repos\\Dio.Series\\Dio.Series\\Dio.Series.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josivaldo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
